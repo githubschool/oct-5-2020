@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: oct 5 2020
+- Class Date: Oct 5, 2020
 - Facilitator: @beardofedu
 
 ## Talk to Us!!
