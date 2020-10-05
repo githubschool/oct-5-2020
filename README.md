@@ -1,4 +1,4 @@
-# GitHub for Developers
+# Walkthrough of GitHub
 
 - Class Date: Oct 5, 2020
 - Facilitator: @beardofedu
